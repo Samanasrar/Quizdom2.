@@ -435,7 +435,8 @@ body{
     .main {
         position: fixed;
         background-size: cover;
-        background-position: top;
+	background: url(images/quizbox.jpg);
+	    
     }
 
     .home-content h1 {
